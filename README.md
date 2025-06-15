@@ -1,5 +1,7 @@
 # ai_cursor_study
 
+20250615 update
+
 # RIPER-5 + MULTIDIMENSIONAL THINKING + AGENT EXECUTION PROTOCOL 
 
 ## 目录
